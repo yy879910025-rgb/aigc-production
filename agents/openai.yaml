@@ -1,0 +1,6 @@
+interface:
+  display_name: "AIGC 制作总控"
+  short_description: "总控协调四个专业子 Agent，完成选题、剧本、资产设计与视频提示词"
+  default_prompt: "使用 $aigc-production 帮我制作一个 AI 短片，从选题沟通开始，按阶段确认后推进。"
+  icon_small: "./assets/avatar.png"
+  icon_large: "./assets/avatar.png"
